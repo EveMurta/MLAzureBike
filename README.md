@@ -4,6 +4,7 @@ Repositorio com modelo de previsao aluguel bikes
 ##Como criar um modelo preditivo 
 
 #Configuração do Ambiente
+
 Acessando o portal Azure, se faz nescessaria a criacao de um novo recurso do Azure Machine Learning e um Workspace. Preencha todos os dados nescessarios referentes a configuracao de onde os dados serao armazenados, como nome, regiao, sorage account, acesso publico ou privado, dentre outros. Apos configurar e finalizar a preparacao do ambiente podemos seguir para o studio.
 
 #Preparação dos Dados:
